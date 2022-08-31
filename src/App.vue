@@ -12,6 +12,7 @@ export default {
 
 <template>
   <Counter/>
+  <Counter/>
 </template>
 
 
